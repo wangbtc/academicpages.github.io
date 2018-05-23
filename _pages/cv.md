@@ -46,10 +46,11 @@ Skills
   * C++
   * Python
 * Specialized Software
-  * VHDL (Ver)
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * VHDL (Verilog)
+  * Mathematica
+  * MATLAB
+  * ROOT
+  * GEANT4
 
 Publications
 ======
@@ -69,6 +70,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Awards and Honor
 ======
-* Currently signed in to 43 different slack teams
+* William G. Larsen, PhD Memorial Graduate Award for Best Teaching Assistant - May 2017
+* DoctoralConferencePresentationAward - Feb 2017
+* Student Travel Awards for 2017 APS April Meeting - Jan 2017
+* Dean’s dissertation scholarship - June 2016
+* Graduate Scholarship Fund - May 2016
+* First placement from among all graduates in the department - June 2004
+* Certification of Presidential Award - Dec 2002
