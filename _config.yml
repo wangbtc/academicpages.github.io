@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ryan Wang"
+title                    : "Ryan Wang"
 title_separator          : "-"
 name                     : &name "JUIJEN (RYAN) WANG"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Dr. JUIJEN (RYAN) WANG"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoctoral researcher at Brandeis University, expert in direct dark matter detection technology of liquid noble gas detector. "
+  location         : "415 South Street, Waltham, MA 02453"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wm1eJP0AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4898-0434"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
