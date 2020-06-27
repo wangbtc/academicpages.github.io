@@ -75,10 +75,10 @@ Skills
 
 Awards and Honor
 ======
-* William G. Larsen, PhD Memorial Graduate Award for Best Teaching Assistant - May 2017
-* Doctoral Conference PresentationAward - Feb 2017
-* Student Travel Awards for 2017 APS April Meeting - Jan 2017
-* Dean’s dissertation scholarship - June 2016
-* Graduate Scholarship Fund - May 2016
-* First placement from among all graduates in the department - June 2004
-* Certification of Presidential Award - Dec 2002
+* William G. Larsen, PhD Memorial Graduate Award for Best Teaching Assistant , Department of Physics and Astronomy, University of New Mexico - May 2017
+* Doctoral Conference PresentationAward, University of New Mexico - Feb 2017
+* Student Travel Awards for 2017 APS April Meeting, American Physical Society - Jan 2017
+* Dean’s dissertation scholarship, University of New Mexico - June 2016
+* Graduate Scholarship Fund, University of New Mexico - May 2016
+* First placement from among all graduates in the department, Tamkang University - June 2004
+* Certification of Presidential Award, Tamkang University - Dec 2002
