@@ -73,14 +73,6 @@ Skills
   * ROOT
   * GEANT4
 
-
-Teaching
-======
-  * Aug 2016 - May 2017: Teaching Assistant
-    * Department of Physics and Astronomy, University of New Mexico
-      * General Physics 161,262
-      * Computational Physics 292
-
 Awards and Honor
 ======
 * William G. Larsen, PhD Memorial Graduate Award for Best Teaching Assistant - May 2017
