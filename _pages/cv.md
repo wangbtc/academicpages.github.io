@@ -15,11 +15,11 @@ Education
 * M.S. in Physics, National Chiao-Tung University, 2006
 * Ph.D in Experimental particle physics, University of New Mexico, 2017
 
-Work experience
+Professional Appointment
 ======
-* Oct. 2017: Postdoctoral Researcher
+* Oct. 2017 - Aug. 2020: Postdoctoral Researcher 
   * Brandeis University
-  * Duties included: Hardware testing and software developing for LZ dark matter experiment
+  * Duties included: LZ Collaboration - DM physics, coordinating Outer Detector construction, coordinating TPC assembly in Surface Assembly Laboratory.
   * Supervisor: Professor Bjoern Penning
 
 * Aug 2016 - May 2017: Teaching Assistant
@@ -38,6 +38,18 @@ Work experience
 * June 2006 - June 2008 : Research Assistant
   * Institute of Physics, Academia Sinica, Taipei, Taiwan
   * Design and improve equipment in Particle physics, data analysis
+
+Position of Responsibility
+======
+  * LZ collaboration : Oct. 2019 - Sep. 2020
+    * Outer detector coordinator
+      * coordinating Outer Detector construction/operation at SURF
+  * LZ collaboration : Oct. 2019 - Sep. 2020  
+    * Shift Manager
+      * Managing shift personnel at SURF
+  * LZ collaboration : May 2019 - Sep. 2019
+    * Surface Assembly Laboratory (SAL) Coordinator
+      * Coordinating the TPC Assembly at SAL
 
 Skills
 ======
