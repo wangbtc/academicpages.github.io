@@ -76,7 +76,7 @@ Skills
 Awards and Honor
 ======
 * William G. Larsen, PhD Memorial Graduate Award for Best Teaching Assistant - May 2017
-* DoctoralConferencePresentationAward - Feb 2017
+* Doctoral Conference PresentationAward - Feb 2017
 * Student Travel Awards for 2017 APS April Meeting - Jan 2017
 * Dean’s dissertation scholarship - June 2016
 * Graduate Scholarship Fund - May 2016
